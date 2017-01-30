@@ -1,0 +1,13 @@
+Package: com.iphonemasr.swipeselection
+Version: 1.5.2-1
+Architecture: iphoneos-arm
+Maintainer: KareemAsfour <kareem-asfour@hotmail.com>
+Filename: /SwipeSelection.deb
+Size: 11394 
+MD5sum: 823d5a4505c7e828c6ed4ee1cc7b338a
+SHA1: 37539e3cb94e7c5eef03f6d228ec98420215d40a
+SHA256: d3aaa49a9d81aa1cfc07d00bac894624dfde24186d909df8eb8a512bfdf015b8
+Section: Tweaks
+Description: A Test tweak for iphonemasr
+Author: iPhoneMasr <KareemAsfour@hotmail.com>
+Name: swipeselection
